@@ -49,7 +49,7 @@ A web-based system for managing and monitoring school schedules. Features an adm
 
 ## Contact
 
-gabriel.benedict@email.com
+gabbenedict0906@email.com
 
 ---
 
